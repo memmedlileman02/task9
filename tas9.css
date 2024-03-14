@@ -141,13 +141,13 @@ ul{
       30%,
       50%,
       70% {
-       transform: translateX(-10px);
+       transform: translateX(-50px);
       }
     
       20%,
       40%,
       60% {
-       transform: translateX(10px);
+       transform: translateX(50px);
       }
     
       80% {
