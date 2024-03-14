@@ -223,18 +223,17 @@ ul{
    margin-right: 10px;
    color: #6ea3e4;
 }
-.gun{
-   color: black;
-}
+
 .icon3{
    position: relative;
 
 }
 #right{
    position: absolute;
-   left: 80px;
-   top: 35%;
+   left: 770px;
+   top: 30%;
    font-size: 70px;
+   /* right: 50px; */
    color: rgb(167, 29, 29);
 }
 #left{
